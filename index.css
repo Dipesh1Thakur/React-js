@@ -1,0 +1,24 @@
+body{
+    background-color: #b4f2e1;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0%;
+    font-family:'Times New Roman', Times, serif
+
+}
+.heading, .greeting{
+    margin-top: 0%;
+}
+.heading{
+    float: left;
+    font-size: 50px;
+}
+.greeting{
+    float: right;
+}
+/* .fav{
+    padding-top: 70px;
+} */
+img{
+    width: 100%;
+}
